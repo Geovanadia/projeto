@@ -1,0 +1,23 @@
+Utilizei o xampp para a criação dos servidores locais, logo,
+jogar a pasta "projetocompleto" no diretório C:\xampp\htdocs.
+
+
+Após isso para poder acessar a aplicação, após o xampp, ou outro programa
+mysql ser startado, digitar "localhost" e "localhost/projeto".
+
+Na aba "localhost" entrar np phpMyAdm, criar uma DataBase com o nome de "estoque"
+após isso, importar o BD "carros.sql".
+
+Logo após, na aba "localhost/projetocompleto", clicar em navegation.
+
+
+
+
+
+
+
+
+Vou adiantar desculpas a quem estiver avaliando meu projeto, pois ainda 
+estou aprendendo a mexer com o css no php, e ainda estou aprendendo sobre
+php, esse projeto me fez aprender muito, e com certeza vou tentar fazer
+o melhor a cada dia.
